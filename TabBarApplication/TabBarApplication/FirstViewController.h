@@ -16,6 +16,6 @@
 }
 @property(nonatomic,retain) UIPickerView*picker;
 @property(nonatomic,strong) NSArray *array;
-@property(nonatomic,retain) NSArray *array_2;
+@property(nonatomic,retain) NSArray *array_2 ;
 @end
 
