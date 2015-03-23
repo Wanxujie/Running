@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>意大利</key>
+	<array>
+		<string>篮球</string>
+		<string>足球</string>
+	</array>
+	<key>英格兰</key>
+	<array>
+		<string>舞蹈</string>
+	</array>
+	<key>美利坚</key>
+	<array>
+		<string>迪斯科</string>
+	</array>
+	<key>澳大利亚</key>
+	<array>
+		<string>斗牛</string>
+	</array>
+</dict>
+</plist>
